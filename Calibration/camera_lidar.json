@@ -1,0 +1,48 @@
+{
+  "camera_matrix": [
+    [
+      5638.53,
+      0.0,
+      2071.906306882011
+    ],
+    [
+      0.0,
+      5644.32,
+      1520.373160690596
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "rotation_lidar_to_camera": [
+    [
+      0.999947,
+      2.14668e-05,
+      -0.0103844
+    ],
+    [
+      -0.0103806,
+      0.0284951,
+      -0.999541
+    ],
+    [
+      0.000274184,
+      0.999596,
+      0.028494
+    ]
+  ],
+  "translation_lidar_to_camera": [
+    -0.0105864,
+    -0.103452,
+    -0.199331
+  ],
+  "translation_unit": "m",
+  "transform_convention": "p_camera = R_lidar_to_camera @ p_lidar + t_lidar_to_camera",
+  "reference_depth_definition": "LiDAR radial range r = sqrt(X^2 + Y^2 + Z^2), in metres",
+  "angle_unit": "deg",
+  "azimuth_definition": "atan2(Y, X); zero along +X; positive from +X toward +Y",
+  "elevation_definition": "atan2(Z, sqrt(X^2 + Y^2)); zero in the XY plane; positive toward +Z",
+  "angle_to_lidar_xyz": "X = r*cos(el)*cos(az); Y = r*cos(el)*sin(az); Z = r*sin(el); convert az and el from degrees to radians before evaluation"
+}

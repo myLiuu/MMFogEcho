@@ -1,0 +1,22 @@
+{
+  "echo": {
+    "file_extension": ".bin",
+    "numpy_dtype": "uint8",
+    "header_hex": "a55a1122",
+    "footer_hex": "fafb3344",
+    "reference_index": 62,
+    "index_convention": "Zero-based waveform sample index, excluding the file header and footer",
+    "sample_interval_ns": 1.0
+  },
+  "image": {
+    "file_extension": ".png",
+    "image_width": 4096,
+    "image_height": 3000,
+    "num_channels": 3,
+    "color_space": "RGB",
+    "bit_depth_per_channel": 8
+  }
+}
+
+
+
