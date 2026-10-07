@@ -17,7 +17,7 @@ The dataset was collected under controlled real-fog conditions for the study of 
 | Scenes/scene_XX/annotations.json | Labels for echo–image pairs, including target, reference distance, scanning angles and optical thickness |
 | Calibration/camera_lidar.json | Calibration parameters: camera intrinsic parameters, LiDAR-to-camera extrinsic parameters, and coordinate conventions |
 | Metadata/data_format.json | Echo and image format specifications |
-| Metadata/data_usage.md | Data usage instructions for point cloud reconstruction and echo-to-image associations |
+| Metadata/data_usage.md | Data usage instructions for point cloud generation and echo-to-image associations |
 
 ## Annotations
 
