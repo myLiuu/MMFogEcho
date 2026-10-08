@@ -1,0 +1,9242 @@
+[
+  {
+    "echo": "echoes/1/1_1.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.447,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_2.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.299,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_3.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.082,
+      "elevation_deg": 3.884
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_4.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.414,
+      "elevation_deg": 3.887
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_5.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.217,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_6.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.04,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_7.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.832,
+      "elevation_deg": 3.88
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_8.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.664,
+      "elevation_deg": 3.877
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_9.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.348,
+      "elevation_deg": 3.604
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_10.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": 3.588
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_11.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.013,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_12.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.786,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_13.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.599,
+      "elevation_deg": 3.575
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_14.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.391,
+      "elevation_deg": 3.569
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_15.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.224,
+      "elevation_deg": 3.571
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_16.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 87.987,
+      "elevation_deg": 3.564
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_17.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 3.39
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_18.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.114,
+      "elevation_deg": 3.382
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_19.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.838,
+      "elevation_deg": 3.379
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_20.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.63,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_21.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.384,
+      "elevation_deg": 3.378
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_22.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.197,
+      "elevation_deg": 3.363
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_23.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 87.98,
+      "elevation_deg": 3.364
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_24.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.949,
+      "elevation_deg": 3.089
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_25.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.742,
+      "elevation_deg": 3.083
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_26.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.486,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_27.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.249,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_28.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.013,
+      "elevation_deg": 3.079
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_29.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.393,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_30.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.166,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_31.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.518,
+      "elevation_deg": 2.543
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_32.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.261,
+      "elevation_deg": 2.527
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_33.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.025,
+      "elevation_deg": 2.529
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_34.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.768,
+      "elevation_deg": 2.514
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_35.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 2.513
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_36.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": 2.509
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_37.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.431,
+      "elevation_deg": 2.315
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_38.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.165,
+      "elevation_deg": 2.31
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_39.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.455,
+      "elevation_deg": 2.304
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_40.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.248,
+      "elevation_deg": 2.303
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_41.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.987,
+      "elevation_deg": 2.298
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_42.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.662,
+      "elevation_deg": 2.296
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_43.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.434,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_44.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.246,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_45.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.95,
+      "elevation_deg": 2.081
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_46.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.753,
+      "elevation_deg": 2.079
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_47.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.458,
+      "elevation_deg": 2.08
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_48.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.201,
+      "elevation_deg": 2.077
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_49.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.032,
+      "elevation_deg": 1.836
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_50.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.795,
+      "elevation_deg": 1.835
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_51.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 1.83
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_52.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.53,
+      "elevation_deg": 1.825
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_53.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.283,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_54.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.515,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_55.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.478,
+      "elevation_deg": 1.605
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_56.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.232,
+      "elevation_deg": 1.594
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_57.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.966,
+      "elevation_deg": 1.591
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_58.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.69,
+      "elevation_deg": 1.58
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_59.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 1.575
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_60.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.256,
+      "elevation_deg": 1.574
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_61.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.389,
+      "elevation_deg": 0.721
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_62.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.251,
+      "elevation_deg": 0.708
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_63.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.064,
+      "elevation_deg": 0.704
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_64.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.906,
+      "elevation_deg": 0.705
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_65.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.336,
+      "elevation_deg": 0.649
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_66.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.464,
+      "elevation_deg": 0.642
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_67.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.178,
+      "elevation_deg": 0.637
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_68.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.041,
+      "elevation_deg": 0.629
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_69.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.381,
+      "elevation_deg": 0.561
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_70.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.223,
+      "elevation_deg": 0.562
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_71.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.075,
+      "elevation_deg": 0.546
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_72.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.908,
+      "elevation_deg": 0.548
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_73.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.298,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_74.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.16,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_75.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.042,
+      "elevation_deg": 0.529
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_76.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.436,
+      "elevation_deg": 0.525
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_77.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.442
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_78.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.215,
+      "elevation_deg": 0.43
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_79.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.909,
+      "elevation_deg": 0.426
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_80.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.067,
+      "elevation_deg": 0.422
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_81.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.457,
+      "elevation_deg": 0.392
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_82.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.043,
+      "elevation_deg": 0.393
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_83.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.289,
+      "elevation_deg": 0.384
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_84.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.191,
+      "elevation_deg": 0.383
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_85.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.507,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_86.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.32,
+      "elevation_deg": 0.268
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_87.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.335,
+      "elevation_deg": 0.265
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_88.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.128,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_89.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.124,
+      "elevation_deg": 0.256
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_90.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.872,
+      "elevation_deg": 0.254
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_91.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.105,
+      "elevation_deg": 0.132
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_92.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.509,
+      "elevation_deg": 0.131
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_93.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.302,
+      "elevation_deg": 0.125
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_94.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.129,
+      "elevation_deg": 0.124
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_95.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.883,
+      "elevation_deg": 0.114
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_96.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.386,
+      "elevation_deg": 0.107
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_97.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.441,
+      "elevation_deg": -0.011
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_98.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.264,
+      "elevation_deg": -0.013
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_99.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.048,
+      "elevation_deg": -0.016
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_100.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": -0.033
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_101.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.984,
+      "elevation_deg": -0.031
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_102.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.397,
+      "elevation_deg": -0.04
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_103.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.472,
+      "elevation_deg": -0.114
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_104.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.059,
+      "elevation_deg": -0.121
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_105.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": -0.126
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_106.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.34,
+      "elevation_deg": -0.186
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_107.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.143,
+      "elevation_deg": -0.19
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_108.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.877,
+      "elevation_deg": -0.203
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_109.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.237,
+      "elevation_deg": -0.249
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_110.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.434,
+      "elevation_deg": -0.256
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_111.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.051,
+      "elevation_deg": -0.271
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_112.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.341,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_113.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.085,
+      "elevation_deg": -0.356
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_114.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.879,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_115.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.386,
+      "elevation_deg": -0.363
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_116.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.514,
+      "elevation_deg": -0.374
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_117.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.111,
+      "elevation_deg": -0.377
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_118.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.116,
+      "elevation_deg": -0.472
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_119.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": -0.482
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/1/1_120.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.88,
+      "elevation_deg": -0.485
+    },
+    "target": "cotton",
+    "OT": 18.3
+  },
+  {
+    "echo": "echoes/2/2_1.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.447,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_2.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.299,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_3.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.082,
+      "elevation_deg": 3.884
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_4.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.414,
+      "elevation_deg": 3.887
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_5.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.217,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_6.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.04,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_7.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.832,
+      "elevation_deg": 3.88
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_8.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.664,
+      "elevation_deg": 3.877
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_9.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.348,
+      "elevation_deg": 3.604
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_10.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": 3.588
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_11.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.013,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_12.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.786,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_13.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.599,
+      "elevation_deg": 3.575
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_14.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.391,
+      "elevation_deg": 3.569
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_15.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.224,
+      "elevation_deg": 3.571
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_16.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 87.987,
+      "elevation_deg": 3.564
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_17.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 3.39
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_18.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.114,
+      "elevation_deg": 3.382
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_19.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.838,
+      "elevation_deg": 3.379
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_20.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.63,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_21.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.384,
+      "elevation_deg": 3.378
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_22.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.197,
+      "elevation_deg": 3.363
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_23.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 87.98,
+      "elevation_deg": 3.364
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_24.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.949,
+      "elevation_deg": 3.089
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_25.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.742,
+      "elevation_deg": 3.083
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_26.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.486,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_27.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.249,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_28.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.013,
+      "elevation_deg": 3.079
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_29.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.393,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_30.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.166,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_31.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.518,
+      "elevation_deg": 2.543
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_32.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.261,
+      "elevation_deg": 2.527
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_33.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.025,
+      "elevation_deg": 2.529
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_34.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.768,
+      "elevation_deg": 2.514
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_35.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 2.513
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_36.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": 2.509
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_37.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.431,
+      "elevation_deg": 2.315
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_38.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.165,
+      "elevation_deg": 2.31
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_39.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.455,
+      "elevation_deg": 2.304
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_40.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.248,
+      "elevation_deg": 2.303
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_41.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.987,
+      "elevation_deg": 2.298
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_42.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.662,
+      "elevation_deg": 2.296
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_43.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.434,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_44.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.246,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_45.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.95,
+      "elevation_deg": 2.081
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_46.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.753,
+      "elevation_deg": 2.079
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_47.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.458,
+      "elevation_deg": 2.08
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_48.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.201,
+      "elevation_deg": 2.077
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_49.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.032,
+      "elevation_deg": 1.836
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_50.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.795,
+      "elevation_deg": 1.835
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_51.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 1.83
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_52.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.53,
+      "elevation_deg": 1.825
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_53.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.283,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_54.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.515,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_55.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.478,
+      "elevation_deg": 1.605
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_56.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.232,
+      "elevation_deg": 1.594
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_57.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.966,
+      "elevation_deg": 1.591
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_58.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.69,
+      "elevation_deg": 1.58
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_59.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 1.575
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_60.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.256,
+      "elevation_deg": 1.574
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_61.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.389,
+      "elevation_deg": 0.721
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_62.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.251,
+      "elevation_deg": 0.708
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_63.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.064,
+      "elevation_deg": 0.704
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_64.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.906,
+      "elevation_deg": 0.705
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_65.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.336,
+      "elevation_deg": 0.649
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_66.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.464,
+      "elevation_deg": 0.642
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_67.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.178,
+      "elevation_deg": 0.637
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_68.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.041,
+      "elevation_deg": 0.629
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_69.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.381,
+      "elevation_deg": 0.561
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_70.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.223,
+      "elevation_deg": 0.562
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_71.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.075,
+      "elevation_deg": 0.546
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_72.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.908,
+      "elevation_deg": 0.548
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_73.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.298,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_74.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.16,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_75.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.042,
+      "elevation_deg": 0.529
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_76.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.436,
+      "elevation_deg": 0.525
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_77.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.442
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_78.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.215,
+      "elevation_deg": 0.43
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_79.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.909,
+      "elevation_deg": 0.426
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_80.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.067,
+      "elevation_deg": 0.422
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_81.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.457,
+      "elevation_deg": 0.392
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_82.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.043,
+      "elevation_deg": 0.393
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_83.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.289,
+      "elevation_deg": 0.384
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_84.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.191,
+      "elevation_deg": 0.383
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_85.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.507,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_86.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.32,
+      "elevation_deg": 0.268
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_87.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.335,
+      "elevation_deg": 0.265
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_88.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.128,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_89.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.124,
+      "elevation_deg": 0.256
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_90.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.872,
+      "elevation_deg": 0.254
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_91.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.105,
+      "elevation_deg": 0.132
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_92.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.509,
+      "elevation_deg": 0.131
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_93.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.302,
+      "elevation_deg": 0.125
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_94.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.129,
+      "elevation_deg": 0.124
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_95.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.883,
+      "elevation_deg": 0.114
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_96.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.386,
+      "elevation_deg": 0.107
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_97.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.441,
+      "elevation_deg": -0.011
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_98.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.264,
+      "elevation_deg": -0.013
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_99.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.048,
+      "elevation_deg": -0.016
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_100.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": -0.033
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_101.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.984,
+      "elevation_deg": -0.031
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_102.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.397,
+      "elevation_deg": -0.04
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_103.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.472,
+      "elevation_deg": -0.114
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_104.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.059,
+      "elevation_deg": -0.121
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_105.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": -0.126
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_106.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.34,
+      "elevation_deg": -0.186
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_107.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.143,
+      "elevation_deg": -0.19
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_108.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.877,
+      "elevation_deg": -0.203
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_109.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.237,
+      "elevation_deg": -0.249
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_110.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.434,
+      "elevation_deg": -0.256
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_111.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.051,
+      "elevation_deg": -0.271
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_112.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.341,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_113.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.085,
+      "elevation_deg": -0.356
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_114.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.879,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_115.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.386,
+      "elevation_deg": -0.363
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_116.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.514,
+      "elevation_deg": -0.374
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_117.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.111,
+      "elevation_deg": -0.377
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_118.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.116,
+      "elevation_deg": -0.472
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_119.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": -0.482
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/2/2_120.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.88,
+      "elevation_deg": -0.485
+    },
+    "target": "cotton",
+    "OT": 15.2
+  },
+  {
+    "echo": "echoes/3/3_1.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.447,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_2.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.299,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_3.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.082,
+      "elevation_deg": 3.884
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_4.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.414,
+      "elevation_deg": 3.887
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_5.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.217,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_6.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.04,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_7.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.832,
+      "elevation_deg": 3.88
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_8.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.664,
+      "elevation_deg": 3.877
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_9.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.348,
+      "elevation_deg": 3.604
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_10.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": 3.588
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_11.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.013,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_12.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.786,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_13.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.599,
+      "elevation_deg": 3.575
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_14.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.391,
+      "elevation_deg": 3.569
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_15.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.224,
+      "elevation_deg": 3.571
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_16.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 87.987,
+      "elevation_deg": 3.564
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_17.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 3.39
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_18.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.114,
+      "elevation_deg": 3.382
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_19.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.838,
+      "elevation_deg": 3.379
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_20.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.63,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_21.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.384,
+      "elevation_deg": 3.378
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_22.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.197,
+      "elevation_deg": 3.363
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_23.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 87.98,
+      "elevation_deg": 3.364
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_24.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.949,
+      "elevation_deg": 3.089
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_25.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.742,
+      "elevation_deg": 3.083
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_26.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.486,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_27.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.249,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_28.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.013,
+      "elevation_deg": 3.079
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_29.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.393,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_30.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.166,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_31.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.518,
+      "elevation_deg": 2.543
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_32.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.261,
+      "elevation_deg": 2.527
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_33.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.025,
+      "elevation_deg": 2.529
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_34.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.768,
+      "elevation_deg": 2.514
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_35.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 2.513
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_36.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": 2.509
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_37.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.431,
+      "elevation_deg": 2.315
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_38.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.165,
+      "elevation_deg": 2.31
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_39.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.455,
+      "elevation_deg": 2.304
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_40.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.248,
+      "elevation_deg": 2.303
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_41.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.987,
+      "elevation_deg": 2.298
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_42.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.662,
+      "elevation_deg": 2.296
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_43.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.434,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_44.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.246,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_45.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.95,
+      "elevation_deg": 2.081
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_46.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.753,
+      "elevation_deg": 2.079
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_47.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.458,
+      "elevation_deg": 2.08
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_48.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.201,
+      "elevation_deg": 2.077
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_49.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.032,
+      "elevation_deg": 1.836
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_50.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.795,
+      "elevation_deg": 1.835
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_51.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 1.83
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_52.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.53,
+      "elevation_deg": 1.825
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_53.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.283,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_54.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.515,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_55.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.478,
+      "elevation_deg": 1.605
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_56.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.232,
+      "elevation_deg": 1.594
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_57.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.966,
+      "elevation_deg": 1.591
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_58.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.69,
+      "elevation_deg": 1.58
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_59.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 1.575
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_60.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.256,
+      "elevation_deg": 1.574
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_61.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.389,
+      "elevation_deg": 0.721
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_62.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.251,
+      "elevation_deg": 0.708
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_63.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.064,
+      "elevation_deg": 0.704
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_64.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.906,
+      "elevation_deg": 0.705
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_65.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.336,
+      "elevation_deg": 0.649
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_66.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.464,
+      "elevation_deg": 0.642
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_67.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.178,
+      "elevation_deg": 0.637
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_68.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.041,
+      "elevation_deg": 0.629
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_69.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.381,
+      "elevation_deg": 0.561
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_70.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.223,
+      "elevation_deg": 0.562
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_71.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.075,
+      "elevation_deg": 0.546
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_72.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.908,
+      "elevation_deg": 0.548
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_73.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.298,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_74.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.16,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_75.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.042,
+      "elevation_deg": 0.529
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_76.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.436,
+      "elevation_deg": 0.525
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_77.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.442
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_78.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.215,
+      "elevation_deg": 0.43
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_79.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.909,
+      "elevation_deg": 0.426
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_80.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.067,
+      "elevation_deg": 0.422
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_81.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.457,
+      "elevation_deg": 0.392
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_82.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.043,
+      "elevation_deg": 0.393
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_83.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.289,
+      "elevation_deg": 0.384
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_84.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.191,
+      "elevation_deg": 0.383
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_85.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.507,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_86.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.32,
+      "elevation_deg": 0.268
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_87.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.335,
+      "elevation_deg": 0.265
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_88.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.128,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_89.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.124,
+      "elevation_deg": 0.256
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_90.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.872,
+      "elevation_deg": 0.254
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_91.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.105,
+      "elevation_deg": 0.132
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_92.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.509,
+      "elevation_deg": 0.131
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_93.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.302,
+      "elevation_deg": 0.125
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_94.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.129,
+      "elevation_deg": 0.124
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_95.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.883,
+      "elevation_deg": 0.114
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_96.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.386,
+      "elevation_deg": 0.107
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_97.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.441,
+      "elevation_deg": -0.011
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_98.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.264,
+      "elevation_deg": -0.013
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_99.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.048,
+      "elevation_deg": -0.016
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_100.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": -0.033
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_101.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.984,
+      "elevation_deg": -0.031
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_102.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.397,
+      "elevation_deg": -0.04
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_103.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.472,
+      "elevation_deg": -0.114
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_104.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.059,
+      "elevation_deg": -0.121
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_105.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": -0.126
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_106.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.34,
+      "elevation_deg": -0.186
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_107.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.143,
+      "elevation_deg": -0.19
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_108.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.877,
+      "elevation_deg": -0.203
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_109.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.237,
+      "elevation_deg": -0.249
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_110.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.434,
+      "elevation_deg": -0.256
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_111.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.051,
+      "elevation_deg": -0.271
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_112.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.341,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_113.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.085,
+      "elevation_deg": -0.356
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_114.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.879,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_115.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.386,
+      "elevation_deg": -0.363
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_116.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.514,
+      "elevation_deg": -0.374
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_117.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.111,
+      "elevation_deg": -0.377
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_118.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.116,
+      "elevation_deg": -0.472
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_119.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": -0.482
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_120.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.88,
+      "elevation_deg": -0.485
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/4/4_1.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.447,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_2.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.299,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_3.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.082,
+      "elevation_deg": 3.884
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_4.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.414,
+      "elevation_deg": 3.887
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_5.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.217,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_6.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.04,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_7.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.832,
+      "elevation_deg": 3.88
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_8.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.664,
+      "elevation_deg": 3.877
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_9.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.348,
+      "elevation_deg": 3.604
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_10.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": 3.588
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_11.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.013,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_12.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.786,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_13.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.599,
+      "elevation_deg": 3.575
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_14.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.391,
+      "elevation_deg": 3.569
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_15.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.224,
+      "elevation_deg": 3.571
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_16.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 87.987,
+      "elevation_deg": 3.564
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_17.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 3.39
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_18.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.114,
+      "elevation_deg": 3.382
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_19.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.838,
+      "elevation_deg": 3.379
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_20.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.63,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_21.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.384,
+      "elevation_deg": 3.378
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_22.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.197,
+      "elevation_deg": 3.363
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_23.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 87.98,
+      "elevation_deg": 3.364
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_24.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.949,
+      "elevation_deg": 3.089
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_25.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.742,
+      "elevation_deg": 3.083
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_26.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.486,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_27.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.249,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_28.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.013,
+      "elevation_deg": 3.079
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_29.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.393,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_30.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.166,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_31.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.518,
+      "elevation_deg": 2.543
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_32.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.261,
+      "elevation_deg": 2.527
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_33.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.025,
+      "elevation_deg": 2.529
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_34.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.768,
+      "elevation_deg": 2.514
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_35.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 2.513
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_36.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": 2.509
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_37.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.431,
+      "elevation_deg": 2.315
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_38.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.165,
+      "elevation_deg": 2.31
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_39.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.455,
+      "elevation_deg": 2.304
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_40.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.248,
+      "elevation_deg": 2.303
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_41.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.987,
+      "elevation_deg": 2.298
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_42.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.662,
+      "elevation_deg": 2.296
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_43.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.434,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_44.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.246,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_45.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.95,
+      "elevation_deg": 2.081
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_46.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.753,
+      "elevation_deg": 2.079
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_47.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.458,
+      "elevation_deg": 2.08
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_48.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.201,
+      "elevation_deg": 2.077
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_49.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.032,
+      "elevation_deg": 1.836
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_50.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.795,
+      "elevation_deg": 1.835
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_51.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 1.83
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_52.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.53,
+      "elevation_deg": 1.825
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_53.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.283,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_54.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.515,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_55.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.478,
+      "elevation_deg": 1.605
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_56.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.232,
+      "elevation_deg": 1.594
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_57.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.966,
+      "elevation_deg": 1.591
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_58.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.69,
+      "elevation_deg": 1.58
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_59.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 1.575
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_60.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.256,
+      "elevation_deg": 1.574
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_61.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.389,
+      "elevation_deg": 0.721
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_62.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.251,
+      "elevation_deg": 0.708
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_63.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.064,
+      "elevation_deg": 0.704
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_64.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.906,
+      "elevation_deg": 0.705
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_65.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.336,
+      "elevation_deg": 0.649
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_66.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.464,
+      "elevation_deg": 0.642
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_67.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.178,
+      "elevation_deg": 0.637
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_68.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.041,
+      "elevation_deg": 0.629
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_69.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.381,
+      "elevation_deg": 0.561
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_70.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.223,
+      "elevation_deg": 0.562
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_71.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.075,
+      "elevation_deg": 0.546
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_72.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.908,
+      "elevation_deg": 0.548
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_73.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.298,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_74.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.16,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_75.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.042,
+      "elevation_deg": 0.529
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_76.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.436,
+      "elevation_deg": 0.525
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_77.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.442
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_78.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.215,
+      "elevation_deg": 0.43
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_79.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.909,
+      "elevation_deg": 0.426
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_80.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.067,
+      "elevation_deg": 0.422
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_81.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.457,
+      "elevation_deg": 0.392
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_82.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.043,
+      "elevation_deg": 0.393
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_83.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.289,
+      "elevation_deg": 0.384
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_84.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.191,
+      "elevation_deg": 0.383
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_85.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.507,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_86.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.32,
+      "elevation_deg": 0.268
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_87.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.335,
+      "elevation_deg": 0.265
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_88.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.128,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_89.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.124,
+      "elevation_deg": 0.256
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_90.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.872,
+      "elevation_deg": 0.254
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_91.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.105,
+      "elevation_deg": 0.132
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_92.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.509,
+      "elevation_deg": 0.131
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_93.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.302,
+      "elevation_deg": 0.125
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_94.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.129,
+      "elevation_deg": 0.124
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_95.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.883,
+      "elevation_deg": 0.114
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_96.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.386,
+      "elevation_deg": 0.107
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_97.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.441,
+      "elevation_deg": -0.011
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_98.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.264,
+      "elevation_deg": -0.013
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_99.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.048,
+      "elevation_deg": -0.016
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_100.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": -0.033
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_101.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.984,
+      "elevation_deg": -0.031
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_102.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.397,
+      "elevation_deg": -0.04
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_103.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.472,
+      "elevation_deg": -0.114
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_104.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.059,
+      "elevation_deg": -0.121
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_105.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": -0.126
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_106.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.34,
+      "elevation_deg": -0.186
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_107.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.143,
+      "elevation_deg": -0.19
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_108.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.877,
+      "elevation_deg": -0.203
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_109.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.237,
+      "elevation_deg": -0.249
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_110.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.434,
+      "elevation_deg": -0.256
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_111.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.051,
+      "elevation_deg": -0.271
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_112.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.341,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_113.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.085,
+      "elevation_deg": -0.356
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_114.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.879,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_115.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.386,
+      "elevation_deg": -0.363
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_116.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.514,
+      "elevation_deg": -0.374
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_117.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.111,
+      "elevation_deg": -0.377
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_118.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.116,
+      "elevation_deg": -0.472
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_119.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": -0.482
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/4/4_120.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.88,
+      "elevation_deg": -0.485
+    },
+    "target": "cotton",
+    "OT": 7.8
+  },
+  {
+    "echo": "echoes/5/5_1.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.447,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_2.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.299,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_3.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.082,
+      "elevation_deg": 3.884
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_4.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.414,
+      "elevation_deg": 3.887
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_5.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.217,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_6.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.04,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_7.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.832,
+      "elevation_deg": 3.88
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_8.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.664,
+      "elevation_deg": 3.877
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_9.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.348,
+      "elevation_deg": 3.604
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_10.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": 3.588
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_11.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.013,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_12.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.786,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_13.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.599,
+      "elevation_deg": 3.575
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_14.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.391,
+      "elevation_deg": 3.569
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_15.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.224,
+      "elevation_deg": 3.571
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_16.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 87.987,
+      "elevation_deg": 3.564
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_17.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 3.39
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_18.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.114,
+      "elevation_deg": 3.382
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_19.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.838,
+      "elevation_deg": 3.379
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_20.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.63,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_21.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.384,
+      "elevation_deg": 3.378
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_22.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.197,
+      "elevation_deg": 3.363
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_23.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 87.98,
+      "elevation_deg": 3.364
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_24.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.949,
+      "elevation_deg": 3.089
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_25.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.742,
+      "elevation_deg": 3.083
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_26.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.486,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_27.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.249,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_28.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.013,
+      "elevation_deg": 3.079
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_29.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.393,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_30.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.166,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_31.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.518,
+      "elevation_deg": 2.543
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_32.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.261,
+      "elevation_deg": 2.527
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_33.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.025,
+      "elevation_deg": 2.529
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_34.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.768,
+      "elevation_deg": 2.514
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_35.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 2.513
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_36.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": 2.509
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_37.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.431,
+      "elevation_deg": 2.315
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_38.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.165,
+      "elevation_deg": 2.31
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_39.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.455,
+      "elevation_deg": 2.304
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_40.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.248,
+      "elevation_deg": 2.303
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_41.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.987,
+      "elevation_deg": 2.298
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_42.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.662,
+      "elevation_deg": 2.296
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_43.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.434,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_44.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.246,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_45.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.95,
+      "elevation_deg": 2.081
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_46.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.753,
+      "elevation_deg": 2.079
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_47.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.458,
+      "elevation_deg": 2.08
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_48.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.201,
+      "elevation_deg": 2.077
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_49.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.032,
+      "elevation_deg": 1.836
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_50.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.795,
+      "elevation_deg": 1.835
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_51.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 1.83
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_52.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.53,
+      "elevation_deg": 1.825
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_53.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.283,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_54.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.515,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_55.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.478,
+      "elevation_deg": 1.605
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_56.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.232,
+      "elevation_deg": 1.594
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_57.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.966,
+      "elevation_deg": 1.591
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_58.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.69,
+      "elevation_deg": 1.58
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_59.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 1.575
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_60.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.256,
+      "elevation_deg": 1.574
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_61.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.389,
+      "elevation_deg": 0.721
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_62.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.251,
+      "elevation_deg": 0.708
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_63.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.064,
+      "elevation_deg": 0.704
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_64.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.906,
+      "elevation_deg": 0.705
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_65.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.336,
+      "elevation_deg": 0.649
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_66.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.464,
+      "elevation_deg": 0.642
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_67.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.178,
+      "elevation_deg": 0.637
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_68.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.041,
+      "elevation_deg": 0.629
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_69.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.381,
+      "elevation_deg": 0.561
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_70.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.223,
+      "elevation_deg": 0.562
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_71.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.075,
+      "elevation_deg": 0.546
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_72.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.908,
+      "elevation_deg": 0.548
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_73.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.298,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_74.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.16,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_75.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.042,
+      "elevation_deg": 0.529
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_76.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.436,
+      "elevation_deg": 0.525
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_77.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.442
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_78.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.215,
+      "elevation_deg": 0.43
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_79.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.909,
+      "elevation_deg": 0.426
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_80.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.067,
+      "elevation_deg": 0.422
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_81.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.457,
+      "elevation_deg": 0.392
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_82.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.043,
+      "elevation_deg": 0.393
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_83.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.289,
+      "elevation_deg": 0.384
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_84.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.191,
+      "elevation_deg": 0.383
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_85.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.507,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_86.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.32,
+      "elevation_deg": 0.268
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_87.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.335,
+      "elevation_deg": 0.265
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_88.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.128,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_89.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.124,
+      "elevation_deg": 0.256
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_90.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.872,
+      "elevation_deg": 0.254
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_91.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.105,
+      "elevation_deg": 0.132
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_92.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.509,
+      "elevation_deg": 0.131
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_93.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.302,
+      "elevation_deg": 0.125
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_94.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.129,
+      "elevation_deg": 0.124
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_95.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.883,
+      "elevation_deg": 0.114
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_96.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.386,
+      "elevation_deg": 0.107
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_97.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.441,
+      "elevation_deg": -0.011
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_98.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.264,
+      "elevation_deg": -0.013
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_99.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.048,
+      "elevation_deg": -0.016
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_100.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": -0.033
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_101.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.984,
+      "elevation_deg": -0.031
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_102.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.397,
+      "elevation_deg": -0.04
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_103.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.472,
+      "elevation_deg": -0.114
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_104.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.059,
+      "elevation_deg": -0.121
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_105.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": -0.126
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_106.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.34,
+      "elevation_deg": -0.186
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_107.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.143,
+      "elevation_deg": -0.19
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_108.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.877,
+      "elevation_deg": -0.203
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_109.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.237,
+      "elevation_deg": -0.249
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_110.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.434,
+      "elevation_deg": -0.256
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_111.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.051,
+      "elevation_deg": -0.271
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_112.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.341,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_113.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.085,
+      "elevation_deg": -0.356
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_114.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.879,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_115.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.386,
+      "elevation_deg": -0.363
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_116.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.514,
+      "elevation_deg": -0.374
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_117.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.111,
+      "elevation_deg": -0.377
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_118.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.116,
+      "elevation_deg": -0.472
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_119.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": -0.482
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/5/5_120.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.88,
+      "elevation_deg": -0.485
+    },
+    "target": "cotton",
+    "OT": 6.1
+  },
+  {
+    "echo": "echoes/6/6_1.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.447,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_2.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.299,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_3.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.082,
+      "elevation_deg": 3.884
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_4.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.414,
+      "elevation_deg": 3.887
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_5.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.217,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_6.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.04,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_7.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.832,
+      "elevation_deg": 3.88
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_8.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.664,
+      "elevation_deg": 3.877
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_9.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.348,
+      "elevation_deg": 3.604
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_10.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": 3.588
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_11.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.013,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_12.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.786,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_13.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.599,
+      "elevation_deg": 3.575
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_14.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.391,
+      "elevation_deg": 3.569
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_15.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.224,
+      "elevation_deg": 3.571
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_16.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 87.987,
+      "elevation_deg": 3.564
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_17.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 3.39
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_18.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.114,
+      "elevation_deg": 3.382
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_19.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.838,
+      "elevation_deg": 3.379
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_20.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.63,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_21.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.384,
+      "elevation_deg": 3.378
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_22.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.197,
+      "elevation_deg": 3.363
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_23.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 87.98,
+      "elevation_deg": 3.364
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_24.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.949,
+      "elevation_deg": 3.089
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_25.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.742,
+      "elevation_deg": 3.083
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_26.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.486,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_27.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.249,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_28.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.013,
+      "elevation_deg": 3.079
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_29.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.393,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_30.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.166,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_31.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.518,
+      "elevation_deg": 2.543
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_32.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.261,
+      "elevation_deg": 2.527
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_33.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.025,
+      "elevation_deg": 2.529
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_34.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.768,
+      "elevation_deg": 2.514
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_35.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 2.513
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_36.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": 2.509
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_37.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.431,
+      "elevation_deg": 2.315
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_38.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.165,
+      "elevation_deg": 2.31
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_39.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.455,
+      "elevation_deg": 2.304
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_40.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.248,
+      "elevation_deg": 2.303
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_41.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.987,
+      "elevation_deg": 2.298
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_42.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.662,
+      "elevation_deg": 2.296
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_43.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.434,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_44.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.246,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_45.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.95,
+      "elevation_deg": 2.081
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_46.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.753,
+      "elevation_deg": 2.079
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_47.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.458,
+      "elevation_deg": 2.08
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_48.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.201,
+      "elevation_deg": 2.077
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_49.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.032,
+      "elevation_deg": 1.836
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_50.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.795,
+      "elevation_deg": 1.835
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_51.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 1.83
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_52.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.53,
+      "elevation_deg": 1.825
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_53.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.283,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_54.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.515,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_55.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.478,
+      "elevation_deg": 1.605
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_56.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.232,
+      "elevation_deg": 1.594
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_57.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.966,
+      "elevation_deg": 1.591
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_58.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.69,
+      "elevation_deg": 1.58
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_59.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 1.575
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_60.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.256,
+      "elevation_deg": 1.574
+    },
+    "target": "cotton",
+    "OT": 3.1
+  },
+  {
+    "echo": "echoes/6/6_61.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.389,
+      "elevation_deg": 0.721
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_62.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.251,
+      "elevation_deg": 0.708
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_63.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.064,
+      "elevation_deg": 0.704
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_64.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.906,
+      "elevation_deg": 0.705
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_65.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.336,
+      "elevation_deg": 0.649
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_66.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.464,
+      "elevation_deg": 0.642
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_67.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.178,
+      "elevation_deg": 0.637
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_68.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.041,
+      "elevation_deg": 0.629
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_69.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.381,
+      "elevation_deg": 0.561
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_70.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.223,
+      "elevation_deg": 0.562
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_71.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.075,
+      "elevation_deg": 0.546
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_72.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.908,
+      "elevation_deg": 0.548
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_73.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.298,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_74.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.16,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_75.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.042,
+      "elevation_deg": 0.529
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_76.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.436,
+      "elevation_deg": 0.525
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_77.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.442
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_78.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.215,
+      "elevation_deg": 0.43
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_79.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.909,
+      "elevation_deg": 0.426
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_80.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.067,
+      "elevation_deg": 0.422
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_81.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.457,
+      "elevation_deg": 0.392
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_82.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.043,
+      "elevation_deg": 0.393
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_83.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.289,
+      "elevation_deg": 0.384
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_84.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.191,
+      "elevation_deg": 0.383
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_85.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.507,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_86.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.32,
+      "elevation_deg": 0.268
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_87.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.335,
+      "elevation_deg": 0.265
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_88.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.128,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_89.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.124,
+      "elevation_deg": 0.256
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_90.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.872,
+      "elevation_deg": 0.254
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_91.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.105,
+      "elevation_deg": 0.132
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_92.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.509,
+      "elevation_deg": 0.131
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_93.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.302,
+      "elevation_deg": 0.125
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_94.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.129,
+      "elevation_deg": 0.124
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_95.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.883,
+      "elevation_deg": 0.114
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_96.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.386,
+      "elevation_deg": 0.107
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_97.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.441,
+      "elevation_deg": -0.011
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_98.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.264,
+      "elevation_deg": -0.013
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_99.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.048,
+      "elevation_deg": -0.016
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_100.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": -0.033
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_101.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.984,
+      "elevation_deg": -0.031
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_102.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.397,
+      "elevation_deg": -0.04
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_103.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.472,
+      "elevation_deg": -0.114
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_104.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.059,
+      "elevation_deg": -0.121
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_105.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": -0.126
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_106.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.34,
+      "elevation_deg": -0.186
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_107.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.143,
+      "elevation_deg": -0.19
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_108.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.877,
+      "elevation_deg": -0.203
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_109.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.237,
+      "elevation_deg": -0.249
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_110.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.434,
+      "elevation_deg": -0.256
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_111.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.051,
+      "elevation_deg": -0.271
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_112.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.341,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_113.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.085,
+      "elevation_deg": -0.356
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_114.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.879,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_115.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.386,
+      "elevation_deg": -0.363
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_116.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.514,
+      "elevation_deg": -0.374
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_117.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.111,
+      "elevation_deg": -0.377
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_118.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.116,
+      "elevation_deg": -0.472
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_119.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": -0.482
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/6/6_120.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.88,
+      "elevation_deg": -0.485
+    },
+    "target": "cotton",
+    "OT": 3.5
+  },
+  {
+    "echo": "echoes/7/7_1.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.447,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_2.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.299,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_3.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.082,
+      "elevation_deg": 3.884
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_4.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.414,
+      "elevation_deg": 3.887
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_5.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.217,
+      "elevation_deg": 3.889
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_6.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.04,
+      "elevation_deg": 3.888
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_7.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.832,
+      "elevation_deg": 3.88
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_8.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.664,
+      "elevation_deg": 3.877
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_9.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.348,
+      "elevation_deg": 3.604
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_10.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": 3.588
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_11.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.013,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_12.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.786,
+      "elevation_deg": 3.586
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_13.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.599,
+      "elevation_deg": 3.575
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_14.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.391,
+      "elevation_deg": 3.569
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_15.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.224,
+      "elevation_deg": 3.571
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_16.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 87.987,
+      "elevation_deg": 3.564
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_17.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 3.39
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_18.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.114,
+      "elevation_deg": 3.382
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_19.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.838,
+      "elevation_deg": 3.379
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_20.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.63,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_21.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.384,
+      "elevation_deg": 3.378
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_22.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.197,
+      "elevation_deg": 3.363
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_23.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 87.98,
+      "elevation_deg": 3.364
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_24.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.949,
+      "elevation_deg": 3.089
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_25.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.742,
+      "elevation_deg": 3.083
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_26.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.486,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_27.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.249,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_28.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.013,
+      "elevation_deg": 3.079
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_29.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.393,
+      "elevation_deg": 3.082
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_30.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.166,
+      "elevation_deg": 3.078
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_31.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.518,
+      "elevation_deg": 2.543
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_32.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.261,
+      "elevation_deg": 2.527
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_33.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.025,
+      "elevation_deg": 2.529
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_34.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.768,
+      "elevation_deg": 2.514
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_35.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 2.513
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_36.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": 2.509
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_37.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.431,
+      "elevation_deg": 2.315
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_38.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.165,
+      "elevation_deg": 2.31
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_39.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.455,
+      "elevation_deg": 2.304
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_40.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.248,
+      "elevation_deg": 2.303
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_41.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.987,
+      "elevation_deg": 2.298
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_42.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.662,
+      "elevation_deg": 2.296
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_43.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.434,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_44.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.246,
+      "elevation_deg": 2.09
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_45.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.95,
+      "elevation_deg": 2.081
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_46.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.753,
+      "elevation_deg": 2.079
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_47.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.458,
+      "elevation_deg": 2.08
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_48.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.201,
+      "elevation_deg": 2.077
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_49.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.032,
+      "elevation_deg": 1.836
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_50.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.795,
+      "elevation_deg": 1.835
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_51.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 1.83
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_52.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.53,
+      "elevation_deg": 1.825
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_53.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.283,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_54.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.515,
+      "elevation_deg": 1.823
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_55.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.478,
+      "elevation_deg": 1.605
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_56.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.232,
+      "elevation_deg": 1.594
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_57.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.966,
+      "elevation_deg": 1.591
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_58.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.69,
+      "elevation_deg": 1.58
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_59.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.512,
+      "elevation_deg": 1.575
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_60.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.256,
+      "elevation_deg": 1.574
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_61.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.389,
+      "elevation_deg": 0.721
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_62.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.251,
+      "elevation_deg": 0.708
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_63.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.064,
+      "elevation_deg": 0.704
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_64.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.906,
+      "elevation_deg": 0.705
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_65.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.336,
+      "elevation_deg": 0.649
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_66.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.464,
+      "elevation_deg": 0.642
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_67.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.178,
+      "elevation_deg": 0.637
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_68.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.041,
+      "elevation_deg": 0.629
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_69.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.381,
+      "elevation_deg": 0.561
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_70.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.223,
+      "elevation_deg": 0.562
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_71.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.075,
+      "elevation_deg": 0.546
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_72.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.908,
+      "elevation_deg": 0.548
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_73.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.298,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_74.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.16,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_75.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.042,
+      "elevation_deg": 0.529
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_76.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.436,
+      "elevation_deg": 0.525
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_77.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.442
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_78.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.215,
+      "elevation_deg": 0.43
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_79.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 88.909,
+      "elevation_deg": 0.426
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_80.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.067,
+      "elevation_deg": 0.422
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_81.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.457,
+      "elevation_deg": 0.392
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_82.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.043,
+      "elevation_deg": 0.393
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_83.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.289,
+      "elevation_deg": 0.384
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_84.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.191,
+      "elevation_deg": 0.383
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_85.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.507,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_86.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.32,
+      "elevation_deg": 0.268
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_87.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.335,
+      "elevation_deg": 0.265
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_88.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.128,
+      "elevation_deg": 0.266
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_89.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.124,
+      "elevation_deg": 0.256
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_90.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.872,
+      "elevation_deg": 0.254
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_91.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.105,
+      "elevation_deg": 0.132
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_92.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.509,
+      "elevation_deg": 0.131
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_93.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.302,
+      "elevation_deg": 0.125
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_94.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.129,
+      "elevation_deg": 0.124
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_95.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.883,
+      "elevation_deg": 0.114
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_96.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.386,
+      "elevation_deg": 0.107
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_97.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.441,
+      "elevation_deg": -0.011
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_98.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.264,
+      "elevation_deg": -0.013
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_99.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.048,
+      "elevation_deg": -0.016
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_100.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.19,
+      "elevation_deg": -0.033
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_101.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.984,
+      "elevation_deg": -0.031
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_102.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.397,
+      "elevation_deg": -0.04
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_103.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.472,
+      "elevation_deg": -0.114
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_104.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.059,
+      "elevation_deg": -0.121
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_105.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.68,
+    "angle": {
+      "azimuth_deg": 88.266,
+      "elevation_deg": -0.126
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_106.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.34,
+      "elevation_deg": -0.186
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_107.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 89.143,
+      "elevation_deg": -0.19
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_108.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.877,
+      "elevation_deg": -0.203
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_109.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.237,
+      "elevation_deg": -0.249
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_110.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.434,
+      "elevation_deg": -0.256
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_111.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.051,
+      "elevation_deg": -0.271
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_112.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.63,
+    "angle": {
+      "azimuth_deg": 89.341,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_113.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 89.085,
+      "elevation_deg": -0.356
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_114.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.879,
+      "elevation_deg": -0.357
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_115.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.66,
+    "angle": {
+      "azimuth_deg": 88.386,
+      "elevation_deg": -0.363
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_116.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.64,
+    "angle": {
+      "azimuth_deg": 88.514,
+      "elevation_deg": -0.374
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_117.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 88.111,
+      "elevation_deg": -0.377
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_118.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 89.116,
+      "elevation_deg": -0.472
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_119.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.65,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": -0.482
+    },
+    "target": "cotton",
+    "OT": 0.2
+  },
+  {
+    "echo": "echoes/7/7_120.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 6.67,
+    "angle": {
+      "azimuth_deg": 88.88,
+      "elevation_deg": -0.485
+    },
+    "target": "cotton",
+    "OT": 0.2
+  }
+]
