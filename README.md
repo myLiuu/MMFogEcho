@@ -15,9 +15,11 @@ The dataset was collected under controlled real-fog conditions for the study of 
 | Scenes/scene_XX/echoes/N/*.bin | Raw LiDAR waveforms |
 | Scenes/scene_XX/images/N.png | RGB images temporally paired with echoes using acquisition timestamps |
 | Scenes/scene_XX/annotations.json | Labels for echo–image pairs, including target, reference distance, scanning angles and optical thickness |
+| Scenes/scene_XX/temporal_misalignment.json | Echo–image temporal misalignment |
 | Calibration/camera_lidar.json | Calibration parameters: camera intrinsic parameters, LiDAR-to-camera extrinsic parameters, and coordinate conventions |
 | Metadata/data_format.json | Echo and image format specifications |
 | Metadata/data_usage.md | Data usage instructions for point cloud generation and echo-to-image associations |
+| Metadata/distance_generalization_peaks.json | Data details for the distance-generalization experiments |
 
 ## Annotations
 
