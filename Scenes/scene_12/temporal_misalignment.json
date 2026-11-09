@@ -1,0 +1,42 @@
+{
+  "scene": "scene_12",
+  "unit": "ms",
+  "definition": "t_image - t_lidar_frame",
+  "pairs": [
+    {
+      "image": "images/1.png",
+      "echoes": "echoes/1/",
+      "misalignment_ms": 11
+    },
+    {
+      "image": "images/2.png",
+      "echoes": "echoes/2/",
+      "misalignment_ms": 11
+    },
+    {
+      "image": "images/3.png",
+      "echoes": "echoes/3/",
+      "misalignment_ms": 11
+    },
+    {
+      "image": "images/4.png",
+      "echoes": "echoes/4/",
+      "misalignment_ms": 11
+    },
+    {
+      "image": "images/5.png",
+      "echoes": "echoes/5/",
+      "misalignment_ms": 12
+    },
+    {
+      "image": "images/6.png",
+      "echoes": "echoes/6/",
+      "misalignment_ms": 11
+    },
+    {
+      "image": "images/7.png",
+      "echoes": "echoes/7/",
+      "misalignment_ms": 11
+    }
+  ]
+}
