@@ -1,0 +1,7702 @@
+[
+  {
+    "echo": "echoes/1/1_1.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.041,
+      "elevation_deg": 3.675
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_2.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.812,
+      "elevation_deg": 3.67
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_3.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.623,
+      "elevation_deg": 3.669
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_4.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.464,
+      "elevation_deg": 3.667
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_5.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.275,
+      "elevation_deg": 3.665
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_6.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.077,
+      "elevation_deg": 3.664
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_7.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.898,
+      "elevation_deg": 3.663
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_8.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.749,
+      "elevation_deg": 3.661
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_9.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.054,
+      "elevation_deg": 3.376
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_10.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.825,
+      "elevation_deg": 3.374
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_11.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.696,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_12.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.497,
+      "elevation_deg": 3.373
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_13.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_14.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.159,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_15.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.951,
+      "elevation_deg": 3.356
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_16.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.752,
+      "elevation_deg": 3.353
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_17.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.913,
+      "elevation_deg": 3.139
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_18.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.745,
+      "elevation_deg": 3.135
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_19.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.122,
+      "elevation_deg": 3.13
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_20.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.967,
+      "elevation_deg": 3.127
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_21.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.788,
+      "elevation_deg": 3.128
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_22.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.549,
+      "elevation_deg": 3.124
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_23.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 3.122
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_24.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.502,
+      "elevation_deg": 2.887
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_25.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.284,
+      "elevation_deg": 2.885
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_26.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.015,
+      "elevation_deg": 2.879
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_27.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.817,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_28.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 90.098,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_29.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.93,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_30.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_31.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.468,
+      "elevation_deg": 2.33
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_32.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.31,
+      "elevation_deg": 2.329
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_33.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.151,
+      "elevation_deg": 2.328
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_34.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.985,
+      "elevation_deg": 2.326
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_35.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.786,
+      "elevation_deg": 2.323
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_36.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.627,
+      "elevation_deg": 2.322
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_37.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.972,
+      "elevation_deg": 2.316
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_38.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.803,
+      "elevation_deg": 2.313
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_39.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.898,
+      "elevation_deg": 2.138
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_40.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.679,
+      "elevation_deg": 2.135
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_41.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.54,
+      "elevation_deg": 2.132
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_42.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 2.131
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_43.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.192,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_44.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.994,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_45.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.835,
+      "elevation_deg": 2.124
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_46.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.027,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_47.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.95,
+      "elevation_deg": 1.9
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_48.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.808,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_49.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.781,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_50.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.592,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_51.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 1.885
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_52.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.146,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_53.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.977,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_54.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.979,
+      "elevation_deg": 1.662
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_55.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.81,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_56.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 1.664
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_57.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.764,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_58.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.605,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_59.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.416,
+      "elevation_deg": 1.657
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_60.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.208,
+      "elevation_deg": 1.653
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_61.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.919,
+      "elevation_deg": 1.017
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_62.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 1.016
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_63.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.532,
+      "elevation_deg": 1.012
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_64.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.334,
+      "elevation_deg": 0.972
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_65.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.155,
+      "elevation_deg": 0.969
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_66.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.947,
+      "elevation_deg": 0.948
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_67.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.534,
+      "elevation_deg": 0.853
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_68.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.98,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_69.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.782,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_70.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.306,
+      "elevation_deg": 0.811
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_71.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.107,
+      "elevation_deg": 0.809
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_72.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.939,
+      "elevation_deg": 0.807
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_73.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 0.69
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_74.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.813,
+      "elevation_deg": 0.687
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_75.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.575,
+      "elevation_deg": 0.685
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_76.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.99,
+      "elevation_deg": 0.65
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_77.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.169,
+      "elevation_deg": 0.641
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_78.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.377,
+      "elevation_deg": 0.636
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_79.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.004,
+      "elevation_deg": 0.532
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_80.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.785,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_81.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.587,
+      "elevation_deg": 0.527
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_82.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.942,
+      "elevation_deg": 0.492
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_83.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.3,
+      "elevation_deg": 0.484
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_84.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.111,
+      "elevation_deg": 0.472
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_85.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.608,
+      "elevation_deg": 0.368
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_86.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.847,
+      "elevation_deg": 0.36
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_87.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 0.355
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_88.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.152,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_89.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.006,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_90.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.944,
+      "elevation_deg": 0.322
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_91.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.541,
+      "elevation_deg": 0.208
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_92.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.997,
+      "elevation_deg": 0.203
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_93.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.739,
+      "elevation_deg": 0.202
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_94.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.204,
+      "elevation_deg": 0.177
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_95.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.169
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_96.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.995,
+      "elevation_deg": 0.163
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_97.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.91,
+      "elevation_deg": 0.036
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_98.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.543,
+      "elevation_deg": 0.02
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_99.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 0.021
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/1/1_100.bin",
+    "image": "images/1.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.017,
+      "elevation_deg": 0.007
+    },
+    "target": "cotton",
+    "OT": 18.8
+  },
+  {
+    "echo": "echoes/2/2_1.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.041,
+      "elevation_deg": 3.675
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_2.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.812,
+      "elevation_deg": 3.67
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_3.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.623,
+      "elevation_deg": 3.669
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_4.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.464,
+      "elevation_deg": 3.667
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_5.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.275,
+      "elevation_deg": 3.665
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_6.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.077,
+      "elevation_deg": 3.664
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_7.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.898,
+      "elevation_deg": 3.663
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_8.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.749,
+      "elevation_deg": 3.661
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_9.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.054,
+      "elevation_deg": 3.376
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_10.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.825,
+      "elevation_deg": 3.374
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_11.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.696,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_12.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.497,
+      "elevation_deg": 3.373
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_13.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_14.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.159,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_15.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.951,
+      "elevation_deg": 3.356
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_16.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.752,
+      "elevation_deg": 3.353
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_17.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.913,
+      "elevation_deg": 3.139
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_18.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.745,
+      "elevation_deg": 3.135
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_19.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.122,
+      "elevation_deg": 3.13
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_20.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.967,
+      "elevation_deg": 3.127
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_21.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.788,
+      "elevation_deg": 3.128
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_22.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.549,
+      "elevation_deg": 3.124
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_23.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 3.122
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_24.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.502,
+      "elevation_deg": 2.887
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_25.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.284,
+      "elevation_deg": 2.885
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_26.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.015,
+      "elevation_deg": 2.879
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_27.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.817,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_28.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 90.098,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_29.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.93,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_30.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_31.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.468,
+      "elevation_deg": 2.33
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_32.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.31,
+      "elevation_deg": 2.329
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_33.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.151,
+      "elevation_deg": 2.328
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_34.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.985,
+      "elevation_deg": 2.326
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_35.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.786,
+      "elevation_deg": 2.323
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_36.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.627,
+      "elevation_deg": 2.322
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_37.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.972,
+      "elevation_deg": 2.316
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_38.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.803,
+      "elevation_deg": 2.313
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_39.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.898,
+      "elevation_deg": 2.138
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_40.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.679,
+      "elevation_deg": 2.135
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_41.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.54,
+      "elevation_deg": 2.132
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_42.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 2.131
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_43.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.192,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_44.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.994,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_45.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.835,
+      "elevation_deg": 2.124
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_46.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.027,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_47.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.95,
+      "elevation_deg": 1.9
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_48.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.808,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_49.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.781,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_50.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.592,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_51.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 1.885
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_52.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.146,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_53.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.977,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_54.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.979,
+      "elevation_deg": 1.662
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_55.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.81,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_56.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 1.664
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_57.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.764,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_58.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.605,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_59.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.416,
+      "elevation_deg": 1.657
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_60.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.208,
+      "elevation_deg": 1.653
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_61.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.919,
+      "elevation_deg": 1.017
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_62.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 1.016
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_63.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.532,
+      "elevation_deg": 1.012
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_64.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.334,
+      "elevation_deg": 0.972
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_65.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.155,
+      "elevation_deg": 0.969
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_66.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.947,
+      "elevation_deg": 0.948
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_67.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.534,
+      "elevation_deg": 0.853
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_68.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.98,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_69.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.782,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_70.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.306,
+      "elevation_deg": 0.811
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_71.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.107,
+      "elevation_deg": 0.809
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_72.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.939,
+      "elevation_deg": 0.807
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_73.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 0.69
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_74.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.813,
+      "elevation_deg": 0.687
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_75.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.575,
+      "elevation_deg": 0.685
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_76.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.99,
+      "elevation_deg": 0.65
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_77.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.169,
+      "elevation_deg": 0.641
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_78.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.377,
+      "elevation_deg": 0.636
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_79.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.004,
+      "elevation_deg": 0.532
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_80.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.785,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_81.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.587,
+      "elevation_deg": 0.527
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_82.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.942,
+      "elevation_deg": 0.492
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_83.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.3,
+      "elevation_deg": 0.484
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_84.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.111,
+      "elevation_deg": 0.472
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_85.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.608,
+      "elevation_deg": 0.368
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_86.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.847,
+      "elevation_deg": 0.36
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_87.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 0.355
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_88.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.152,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_89.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.006,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_90.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.944,
+      "elevation_deg": 0.322
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_91.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.541,
+      "elevation_deg": 0.208
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_92.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.997,
+      "elevation_deg": 0.203
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_93.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.739,
+      "elevation_deg": 0.202
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_94.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.204,
+      "elevation_deg": 0.177
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_95.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.169
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_96.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.995,
+      "elevation_deg": 0.163
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_97.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.91,
+      "elevation_deg": 0.036
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_98.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.543,
+      "elevation_deg": 0.02
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_99.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 0.021
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/2/2_100.bin",
+    "image": "images/2.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.017,
+      "elevation_deg": 0.007
+    },
+    "target": "cotton",
+    "OT": 11.9
+  },
+  {
+    "echo": "echoes/3/3_1.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.041,
+      "elevation_deg": 3.675
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_2.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.812,
+      "elevation_deg": 3.67
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_3.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.623,
+      "elevation_deg": 3.669
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_4.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.464,
+      "elevation_deg": 3.667
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_5.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.275,
+      "elevation_deg": 3.665
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_6.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.077,
+      "elevation_deg": 3.664
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_7.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.898,
+      "elevation_deg": 3.663
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_8.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.749,
+      "elevation_deg": 3.661
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_9.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.054,
+      "elevation_deg": 3.376
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_10.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.825,
+      "elevation_deg": 3.374
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_11.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.696,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_12.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.497,
+      "elevation_deg": 3.373
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_13.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_14.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.159,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_15.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.951,
+      "elevation_deg": 3.356
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_16.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.752,
+      "elevation_deg": 3.353
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_17.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.913,
+      "elevation_deg": 3.139
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_18.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.745,
+      "elevation_deg": 3.135
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_19.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.122,
+      "elevation_deg": 3.13
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_20.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.967,
+      "elevation_deg": 3.127
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_21.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.788,
+      "elevation_deg": 3.128
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_22.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.549,
+      "elevation_deg": 3.124
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_23.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 3.122
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_24.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.502,
+      "elevation_deg": 2.887
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_25.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.284,
+      "elevation_deg": 2.885
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_26.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.015,
+      "elevation_deg": 2.879
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_27.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.817,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_28.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 90.098,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_29.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.93,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_30.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_31.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.468,
+      "elevation_deg": 2.33
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_32.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.31,
+      "elevation_deg": 2.329
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_33.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.151,
+      "elevation_deg": 2.328
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_34.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.985,
+      "elevation_deg": 2.326
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_35.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.786,
+      "elevation_deg": 2.323
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_36.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.627,
+      "elevation_deg": 2.322
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_37.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.972,
+      "elevation_deg": 2.316
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_38.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.803,
+      "elevation_deg": 2.313
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_39.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.898,
+      "elevation_deg": 2.138
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_40.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.679,
+      "elevation_deg": 2.135
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_41.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.54,
+      "elevation_deg": 2.132
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_42.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 2.131
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_43.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.192,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_44.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.994,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_45.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.835,
+      "elevation_deg": 2.124
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_46.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.027,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_47.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.95,
+      "elevation_deg": 1.9
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_48.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.808,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_49.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.781,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_50.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.592,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_51.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 1.885
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_52.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.146,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_53.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.977,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_54.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.979,
+      "elevation_deg": 1.662
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_55.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.81,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_56.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 1.664
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_57.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.764,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_58.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.605,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_59.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.416,
+      "elevation_deg": 1.657
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_60.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.208,
+      "elevation_deg": 1.653
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_61.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.919,
+      "elevation_deg": 1.017
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_62.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 1.016
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_63.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.532,
+      "elevation_deg": 1.012
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_64.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.334,
+      "elevation_deg": 0.972
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_65.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.155,
+      "elevation_deg": 0.969
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_66.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.947,
+      "elevation_deg": 0.948
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_67.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.534,
+      "elevation_deg": 0.853
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_68.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.98,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_69.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.782,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_70.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.306,
+      "elevation_deg": 0.811
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_71.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.107,
+      "elevation_deg": 0.809
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_72.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.939,
+      "elevation_deg": 0.807
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_73.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 0.69
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_74.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.813,
+      "elevation_deg": 0.687
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_75.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.575,
+      "elevation_deg": 0.685
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_76.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.99,
+      "elevation_deg": 0.65
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_77.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.169,
+      "elevation_deg": 0.641
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_78.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.377,
+      "elevation_deg": 0.636
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_79.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.004,
+      "elevation_deg": 0.532
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_80.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.785,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_81.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.587,
+      "elevation_deg": 0.527
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_82.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.942,
+      "elevation_deg": 0.492
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_83.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.3,
+      "elevation_deg": 0.484
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_84.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.111,
+      "elevation_deg": 0.472
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_85.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.608,
+      "elevation_deg": 0.368
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_86.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.847,
+      "elevation_deg": 0.36
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_87.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 0.355
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_88.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.152,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_89.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.006,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_90.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.944,
+      "elevation_deg": 0.322
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_91.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.541,
+      "elevation_deg": 0.208
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_92.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.997,
+      "elevation_deg": 0.203
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_93.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.739,
+      "elevation_deg": 0.202
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_94.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.204,
+      "elevation_deg": 0.177
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_95.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.169
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_96.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.995,
+      "elevation_deg": 0.163
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_97.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.91,
+      "elevation_deg": 0.036
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_98.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.543,
+      "elevation_deg": 0.02
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_99.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 0.021
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/3/3_100.bin",
+    "image": "images/3.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.017,
+      "elevation_deg": 0.007
+    },
+    "target": "cotton",
+    "OT": 9.2
+  },
+  {
+    "echo": "echoes/4/4_1.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.041,
+      "elevation_deg": 3.675
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_2.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.812,
+      "elevation_deg": 3.67
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_3.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.623,
+      "elevation_deg": 3.669
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_4.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.464,
+      "elevation_deg": 3.667
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_5.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.275,
+      "elevation_deg": 3.665
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_6.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.077,
+      "elevation_deg": 3.664
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_7.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.898,
+      "elevation_deg": 3.663
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_8.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.749,
+      "elevation_deg": 3.661
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_9.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.054,
+      "elevation_deg": 3.376
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_10.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.825,
+      "elevation_deg": 3.374
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_11.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.696,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_12.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.497,
+      "elevation_deg": 3.373
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_13.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_14.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.159,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_15.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.951,
+      "elevation_deg": 3.356
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_16.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.752,
+      "elevation_deg": 3.353
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_17.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.913,
+      "elevation_deg": 3.139
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_18.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.745,
+      "elevation_deg": 3.135
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_19.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.122,
+      "elevation_deg": 3.13
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_20.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.967,
+      "elevation_deg": 3.127
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_21.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.788,
+      "elevation_deg": 3.128
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_22.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.549,
+      "elevation_deg": 3.124
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_23.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 3.122
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_24.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.502,
+      "elevation_deg": 2.887
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_25.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.284,
+      "elevation_deg": 2.885
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_26.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.015,
+      "elevation_deg": 2.879
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_27.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.817,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_28.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 90.098,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_29.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.93,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_30.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_31.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.468,
+      "elevation_deg": 2.33
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_32.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.31,
+      "elevation_deg": 2.329
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_33.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.151,
+      "elevation_deg": 2.328
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_34.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.985,
+      "elevation_deg": 2.326
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_35.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.786,
+      "elevation_deg": 2.323
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_36.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.627,
+      "elevation_deg": 2.322
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_37.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.972,
+      "elevation_deg": 2.316
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_38.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.803,
+      "elevation_deg": 2.313
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_39.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.898,
+      "elevation_deg": 2.138
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_40.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.679,
+      "elevation_deg": 2.135
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_41.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.54,
+      "elevation_deg": 2.132
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_42.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 2.131
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_43.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.192,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_44.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.994,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_45.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.835,
+      "elevation_deg": 2.124
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_46.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.027,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_47.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.95,
+      "elevation_deg": 1.9
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_48.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.808,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_49.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.781,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_50.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.592,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_51.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 1.885
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_52.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.146,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_53.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.977,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_54.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.979,
+      "elevation_deg": 1.662
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_55.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.81,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_56.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 1.664
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_57.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.764,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_58.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.605,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_59.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.416,
+      "elevation_deg": 1.657
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_60.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.208,
+      "elevation_deg": 1.653
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_61.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.919,
+      "elevation_deg": 1.017
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_62.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 1.016
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_63.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.532,
+      "elevation_deg": 1.012
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_64.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.334,
+      "elevation_deg": 0.972
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_65.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.155,
+      "elevation_deg": 0.969
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_66.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.947,
+      "elevation_deg": 0.948
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_67.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.534,
+      "elevation_deg": 0.853
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_68.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.98,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_69.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.782,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_70.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.306,
+      "elevation_deg": 0.811
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_71.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.107,
+      "elevation_deg": 0.809
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_72.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.939,
+      "elevation_deg": 0.807
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_73.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 0.69
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_74.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.813,
+      "elevation_deg": 0.687
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_75.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.575,
+      "elevation_deg": 0.685
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_76.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.99,
+      "elevation_deg": 0.65
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_77.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.169,
+      "elevation_deg": 0.641
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_78.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.377,
+      "elevation_deg": 0.636
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_79.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.004,
+      "elevation_deg": 0.532
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_80.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.785,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_81.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.587,
+      "elevation_deg": 0.527
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_82.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.942,
+      "elevation_deg": 0.492
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_83.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.3,
+      "elevation_deg": 0.484
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_84.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.111,
+      "elevation_deg": 0.472
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_85.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.608,
+      "elevation_deg": 0.368
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_86.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.847,
+      "elevation_deg": 0.36
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_87.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 0.355
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_88.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.152,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_89.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.006,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_90.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.944,
+      "elevation_deg": 0.322
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_91.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.541,
+      "elevation_deg": 0.208
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_92.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.997,
+      "elevation_deg": 0.203
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_93.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.739,
+      "elevation_deg": 0.202
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_94.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.204,
+      "elevation_deg": 0.177
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_95.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.169
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_96.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.995,
+      "elevation_deg": 0.163
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_97.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.91,
+      "elevation_deg": 0.036
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_98.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.543,
+      "elevation_deg": 0.02
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_99.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 0.021
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/4/4_100.bin",
+    "image": "images/4.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.017,
+      "elevation_deg": 0.007
+    },
+    "target": "cotton",
+    "OT": 7.9
+  },
+  {
+    "echo": "echoes/5/5_1.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.041,
+      "elevation_deg": 3.675
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_2.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.812,
+      "elevation_deg": 3.67
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_3.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.623,
+      "elevation_deg": 3.669
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_4.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.464,
+      "elevation_deg": 3.667
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_5.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.275,
+      "elevation_deg": 3.665
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_6.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.077,
+      "elevation_deg": 3.664
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_7.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.898,
+      "elevation_deg": 3.663
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_8.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.749,
+      "elevation_deg": 3.661
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_9.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.054,
+      "elevation_deg": 3.376
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_10.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.825,
+      "elevation_deg": 3.374
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_11.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.696,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_12.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.497,
+      "elevation_deg": 3.373
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_13.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_14.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.159,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_15.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.951,
+      "elevation_deg": 3.356
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_16.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.752,
+      "elevation_deg": 3.353
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_17.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.913,
+      "elevation_deg": 3.139
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_18.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.745,
+      "elevation_deg": 3.135
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_19.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.122,
+      "elevation_deg": 3.13
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_20.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.967,
+      "elevation_deg": 3.127
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_21.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.788,
+      "elevation_deg": 3.128
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_22.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.549,
+      "elevation_deg": 3.124
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_23.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 3.122
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_24.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.502,
+      "elevation_deg": 2.887
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_25.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.284,
+      "elevation_deg": 2.885
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_26.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.015,
+      "elevation_deg": 2.879
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_27.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.817,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_28.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 90.098,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_29.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.93,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_30.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_31.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.468,
+      "elevation_deg": 2.33
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_32.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.31,
+      "elevation_deg": 2.329
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_33.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.151,
+      "elevation_deg": 2.328
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_34.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.985,
+      "elevation_deg": 2.326
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_35.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.786,
+      "elevation_deg": 2.323
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_36.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.627,
+      "elevation_deg": 2.322
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_37.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.972,
+      "elevation_deg": 2.316
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_38.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.803,
+      "elevation_deg": 2.313
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_39.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.898,
+      "elevation_deg": 2.138
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_40.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.679,
+      "elevation_deg": 2.135
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_41.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.54,
+      "elevation_deg": 2.132
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_42.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 2.131
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_43.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.192,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_44.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.994,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_45.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.835,
+      "elevation_deg": 2.124
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_46.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.027,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_47.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.95,
+      "elevation_deg": 1.9
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_48.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.808,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_49.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.781,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_50.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.592,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_51.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 1.885
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_52.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.146,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_53.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.977,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_54.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.979,
+      "elevation_deg": 1.662
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_55.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.81,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_56.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 1.664
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_57.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.764,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_58.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.605,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_59.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.416,
+      "elevation_deg": 1.657
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_60.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.208,
+      "elevation_deg": 1.653
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_61.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.919,
+      "elevation_deg": 1.017
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_62.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 1.016
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_63.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.532,
+      "elevation_deg": 1.012
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_64.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.334,
+      "elevation_deg": 0.972
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_65.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.155,
+      "elevation_deg": 0.969
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_66.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.947,
+      "elevation_deg": 0.948
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_67.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.534,
+      "elevation_deg": 0.853
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_68.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.98,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_69.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.782,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_70.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.306,
+      "elevation_deg": 0.811
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_71.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.107,
+      "elevation_deg": 0.809
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_72.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.939,
+      "elevation_deg": 0.807
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_73.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 0.69
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_74.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.813,
+      "elevation_deg": 0.687
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_75.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.575,
+      "elevation_deg": 0.685
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_76.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.99,
+      "elevation_deg": 0.65
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_77.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.169,
+      "elevation_deg": 0.641
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_78.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.377,
+      "elevation_deg": 0.636
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_79.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.004,
+      "elevation_deg": 0.532
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_80.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.785,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_81.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.587,
+      "elevation_deg": 0.527
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_82.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.942,
+      "elevation_deg": 0.492
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_83.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.3,
+      "elevation_deg": 0.484
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_84.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.111,
+      "elevation_deg": 0.472
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_85.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.608,
+      "elevation_deg": 0.368
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_86.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.847,
+      "elevation_deg": 0.36
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_87.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 0.355
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_88.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.152,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_89.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.006,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_90.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.944,
+      "elevation_deg": 0.322
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_91.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.541,
+      "elevation_deg": 0.208
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_92.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.997,
+      "elevation_deg": 0.203
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_93.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.739,
+      "elevation_deg": 0.202
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_94.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.204,
+      "elevation_deg": 0.177
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_95.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.169
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_96.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.995,
+      "elevation_deg": 0.163
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_97.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.91,
+      "elevation_deg": 0.036
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_98.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.543,
+      "elevation_deg": 0.02
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_99.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 0.021
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/5/5_100.bin",
+    "image": "images/5.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.017,
+      "elevation_deg": 0.007
+    },
+    "target": "cotton",
+    "OT": 6.9
+  },
+  {
+    "echo": "echoes/6/6_1.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.041,
+      "elevation_deg": 3.675
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_2.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.812,
+      "elevation_deg": 3.67
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_3.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.623,
+      "elevation_deg": 3.669
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_4.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.464,
+      "elevation_deg": 3.667
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_5.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.275,
+      "elevation_deg": 3.665
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_6.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.077,
+      "elevation_deg": 3.664
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_7.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.898,
+      "elevation_deg": 3.663
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_8.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.749,
+      "elevation_deg": 3.661
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_9.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.054,
+      "elevation_deg": 3.376
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_10.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.825,
+      "elevation_deg": 3.374
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_11.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.696,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_12.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.497,
+      "elevation_deg": 3.373
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_13.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_14.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.159,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_15.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.951,
+      "elevation_deg": 3.356
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_16.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.752,
+      "elevation_deg": 3.353
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_17.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.913,
+      "elevation_deg": 3.139
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_18.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.745,
+      "elevation_deg": 3.135
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_19.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.122,
+      "elevation_deg": 3.13
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_20.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.967,
+      "elevation_deg": 3.127
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_21.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.788,
+      "elevation_deg": 3.128
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_22.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.549,
+      "elevation_deg": 3.124
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_23.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 3.122
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_24.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.502,
+      "elevation_deg": 2.887
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_25.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.284,
+      "elevation_deg": 2.885
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_26.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.015,
+      "elevation_deg": 2.879
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_27.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.817,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_28.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 90.098,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_29.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.93,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_30.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_31.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.468,
+      "elevation_deg": 2.33
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_32.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.31,
+      "elevation_deg": 2.329
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_33.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.151,
+      "elevation_deg": 2.328
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_34.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.985,
+      "elevation_deg": 2.326
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_35.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.786,
+      "elevation_deg": 2.323
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_36.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.627,
+      "elevation_deg": 2.322
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_37.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.972,
+      "elevation_deg": 2.316
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_38.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.803,
+      "elevation_deg": 2.313
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_39.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.898,
+      "elevation_deg": 2.138
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_40.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.679,
+      "elevation_deg": 2.135
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_41.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.54,
+      "elevation_deg": 2.132
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_42.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 2.131
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_43.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.192,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_44.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.994,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_45.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.835,
+      "elevation_deg": 2.124
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_46.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.027,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_47.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.95,
+      "elevation_deg": 1.9
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_48.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.808,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_49.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.781,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_50.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.592,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_51.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 1.885
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_52.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.146,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_53.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.977,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_54.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.979,
+      "elevation_deg": 1.662
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_55.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.81,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_56.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 1.664
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_57.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.764,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_58.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.605,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_59.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.416,
+      "elevation_deg": 1.657
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_60.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.208,
+      "elevation_deg": 1.653
+    },
+    "target": "cotton",
+    "OT": 3.6
+  },
+  {
+    "echo": "echoes/6/6_61.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.919,
+      "elevation_deg": 1.017
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_62.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 1.016
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_63.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.532,
+      "elevation_deg": 1.012
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_64.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.334,
+      "elevation_deg": 0.972
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_65.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.155,
+      "elevation_deg": 0.969
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_66.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.947,
+      "elevation_deg": 0.948
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_67.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.534,
+      "elevation_deg": 0.853
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_68.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.98,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_69.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.782,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_70.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.306,
+      "elevation_deg": 0.811
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_71.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.107,
+      "elevation_deg": 0.809
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_72.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.939,
+      "elevation_deg": 0.807
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_73.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 0.69
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_74.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.813,
+      "elevation_deg": 0.687
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_75.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.575,
+      "elevation_deg": 0.685
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_76.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.99,
+      "elevation_deg": 0.65
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_77.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.169,
+      "elevation_deg": 0.641
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_78.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.377,
+      "elevation_deg": 0.636
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_79.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.004,
+      "elevation_deg": 0.532
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_80.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.785,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_81.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.587,
+      "elevation_deg": 0.527
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_82.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.942,
+      "elevation_deg": 0.492
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_83.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.3,
+      "elevation_deg": 0.484
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_84.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.111,
+      "elevation_deg": 0.472
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_85.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.608,
+      "elevation_deg": 0.368
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_86.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.847,
+      "elevation_deg": 0.36
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_87.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 0.355
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_88.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.152,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_89.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.006,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_90.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.944,
+      "elevation_deg": 0.322
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_91.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.541,
+      "elevation_deg": 0.208
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_92.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.997,
+      "elevation_deg": 0.203
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_93.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.739,
+      "elevation_deg": 0.202
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_94.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.204,
+      "elevation_deg": 0.177
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_95.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.169
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_96.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.995,
+      "elevation_deg": 0.163
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_97.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.91,
+      "elevation_deg": 0.036
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_98.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.543,
+      "elevation_deg": 0.02
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_99.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 0.021
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/6/6_100.bin",
+    "image": "images/6.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.017,
+      "elevation_deg": 0.007
+    },
+    "target": "cotton",
+    "OT": 4.3
+  },
+  {
+    "echo": "echoes/7/7_1.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.041,
+      "elevation_deg": 3.675
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_2.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.812,
+      "elevation_deg": 3.67
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_3.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.623,
+      "elevation_deg": 3.669
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_4.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.464,
+      "elevation_deg": 3.667
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_5.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.275,
+      "elevation_deg": 3.665
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_6.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.077,
+      "elevation_deg": 3.664
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_7.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.898,
+      "elevation_deg": 3.663
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_8.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.749,
+      "elevation_deg": 3.661
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_9.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.054,
+      "elevation_deg": 3.376
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_10.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.825,
+      "elevation_deg": 3.374
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_11.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.696,
+      "elevation_deg": 3.375
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_12.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.497,
+      "elevation_deg": 3.373
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_13.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.308,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_14.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.159,
+      "elevation_deg": 3.368
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_15.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.951,
+      "elevation_deg": 3.356
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_16.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.752,
+      "elevation_deg": 3.353
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_17.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.913,
+      "elevation_deg": 3.139
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_18.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.745,
+      "elevation_deg": 3.135
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_19.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.122,
+      "elevation_deg": 3.13
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_20.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.967,
+      "elevation_deg": 3.127
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_21.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.788,
+      "elevation_deg": 3.128
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_22.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.549,
+      "elevation_deg": 3.124
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_23.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 3.122
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_24.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.502,
+      "elevation_deg": 2.887
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_25.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.284,
+      "elevation_deg": 2.885
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_26.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.015,
+      "elevation_deg": 2.879
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_27.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.817,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_28.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 90.098,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_29.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.93,
+      "elevation_deg": 2.881
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_30.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 2.878
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_31.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.468,
+      "elevation_deg": 2.33
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_32.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.31,
+      "elevation_deg": 2.329
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_33.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.151,
+      "elevation_deg": 2.328
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_34.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.985,
+      "elevation_deg": 2.326
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_35.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.786,
+      "elevation_deg": 2.323
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_36.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.627,
+      "elevation_deg": 2.322
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_37.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.972,
+      "elevation_deg": 2.316
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_38.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.803,
+      "elevation_deg": 2.313
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_39.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.898,
+      "elevation_deg": 2.138
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_40.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.679,
+      "elevation_deg": 2.135
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_41.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.54,
+      "elevation_deg": 2.132
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_42.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.351,
+      "elevation_deg": 2.131
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_43.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.192,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_44.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.994,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_45.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.835,
+      "elevation_deg": 2.124
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_46.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.027,
+      "elevation_deg": 2.128
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_47.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.95,
+      "elevation_deg": 1.9
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_48.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 88.808,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_49.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.781,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_50.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.592,
+      "elevation_deg": 1.887
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_51.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 1.885
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_52.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.146,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_53.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.977,
+      "elevation_deg": 1.88
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_54.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.979,
+      "elevation_deg": 1.662
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_55.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.81,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_56.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 1.664
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_57.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.764,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_58.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.605,
+      "elevation_deg": 1.658
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_59.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.416,
+      "elevation_deg": 1.657
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_60.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.208,
+      "elevation_deg": 1.653
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_61.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.919,
+      "elevation_deg": 1.017
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_62.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.691,
+      "elevation_deg": 1.016
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_63.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.532,
+      "elevation_deg": 1.012
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_64.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.334,
+      "elevation_deg": 0.972
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_65.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.155,
+      "elevation_deg": 0.969
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_66.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.947,
+      "elevation_deg": 0.948
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_67.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.534,
+      "elevation_deg": 0.853
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_68.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.98,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_69.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.782,
+      "elevation_deg": 0.848
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_70.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.306,
+      "elevation_deg": 0.811
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_71.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.107,
+      "elevation_deg": 0.809
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_72.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 88.939,
+      "elevation_deg": 0.807
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_73.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 90.002,
+      "elevation_deg": 0.69
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_74.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.813,
+      "elevation_deg": 0.687
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_75.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.575,
+      "elevation_deg": 0.685
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_76.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 88.99,
+      "elevation_deg": 0.65
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_77.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.169,
+      "elevation_deg": 0.641
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_78.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.377,
+      "elevation_deg": 0.636
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_79.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.004,
+      "elevation_deg": 0.532
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_80.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.785,
+      "elevation_deg": 0.53
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_81.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.587,
+      "elevation_deg": 0.527
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_82.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 88.942,
+      "elevation_deg": 0.492
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_83.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.3,
+      "elevation_deg": 0.484
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_84.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.111,
+      "elevation_deg": 0.472
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_85.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.608,
+      "elevation_deg": 0.368
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_86.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 89.847,
+      "elevation_deg": 0.36
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_87.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.331,
+      "elevation_deg": 0.355
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_88.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.152,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_89.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 90.006,
+      "elevation_deg": 0.354
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_90.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.944,
+      "elevation_deg": 0.322
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_91.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.541,
+      "elevation_deg": 0.208
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_92.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.997,
+      "elevation_deg": 0.203
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_93.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.739,
+      "elevation_deg": 0.202
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_94.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.61,
+    "angle": {
+      "azimuth_deg": 89.204,
+      "elevation_deg": 0.177
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_95.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.382,
+      "elevation_deg": 0.169
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_96.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.6,
+    "angle": {
+      "azimuth_deg": 88.995,
+      "elevation_deg": 0.163
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_97.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.91,
+      "elevation_deg": 0.036
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_98.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.59,
+    "angle": {
+      "azimuth_deg": 89.543,
+      "elevation_deg": 0.02
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_99.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.62,
+    "angle": {
+      "azimuth_deg": 89.384,
+      "elevation_deg": 0.021
+    },
+    "target": "cotton",
+    "OT": 0.4
+  },
+  {
+    "echo": "echoes/7/7_100.bin",
+    "image": "images/7.png",
+    "reference_depth_m": 8.63,
+    "angle": {
+      "azimuth_deg": 89.017,
+      "elevation_deg": 0.007
+    },
+    "target": "cotton",
+    "OT": 0.4
+  }
+]
